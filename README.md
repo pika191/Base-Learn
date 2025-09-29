@@ -21,7 +21,12 @@ NOTE: Claim your badge on https://guild.xyz/base/base-learn, every time you comp
    copy contract address of the contract creation deployed (you can get it on https://sepolia.basescan.org/address/your-BASE-address) <br>
    then go to https://docs.base.org/learn/control-structures/control-structures-exercise and submit. <br>
 
-3> Inheritance.sol <br>
+3> Mapping.sol <br>
+   copy the codes to remix and adjust it then deploy it <br>
+   copy contract address of the contract creation deployed (you can get it on https://sepolia.basescan.org/address/your-BASE-address) <br>
+   then go to https://docs.base.org/learn/mappings/mappings-exercise and submit. <br>
+
+   Inheritance.sol <br>
    copy the codes to remix and adjust it then deploy it <br>
    -select Engineering Manager then fill : _idNumber: 54321 <br>
                                            _managerId: 11111 <br>
@@ -41,10 +46,40 @@ NOTE: Claim your badge on https://guild.xyz/base/base-learn, every time you comp
   copy contract address of the contract creation deployed (you can get it on https://sepolia.basescan.org/address/your-BASE-address) <br>
   then go to https://docs.base.org/learn/structs/structs-exercise and submit. <br>
 
-  Errors.sol <br>
-  copy the codes to remix and adjust it then deploy it <br>
-  copy contract address of the contract creation deployed (you can get it on https://sepolia.basescan.org/address/your-BASE-address) <br>
-  then go to https://docs.base.org/learn/error-triage/error-triage-exercise and submit. <br>
 
-4>
+4> Errors.sol <br>
+   copy the codes to remix and adjust it then deploy it <br>
+   copy contract address of the contract creation deployed (you can get it on https://sepolia.basescan.org/address/your-BASE-address) <br>
+   then go to https://docs.base.org/learn/error-triage/error-triage-exercise and submit. <br>
+   
+   HaikuNFT.sol <br>
+   copy the codes to remix and adjust it then deploy it <br>
+   copy contract address of the contract creation deployed (you can get it on https://sepolia.basescan.org/address/your-BASE-address) <br>
+   then go to https://docs.base.org/learn/new-keyword/new-keyword-exercise and submit. <br>
+
+   SillyStrings.sol <br>
+   copy the codes to remix and adjust it then deploy it <br>
+   imports.sol <br>
+   copy the codes to remix and adjust it then deploy it <br>
+   copy contract address of the contract creation deployed (you can get it on https://sepolia.basescan.org/address/your-BASE-address) <br>
+   then go to https://docs.base.org/learn/imports/imports-exercise and submit. <br>
+
+
+5> ERC721.sol <br>
+   copy the codes to remix and adjust it then deploy it <br>
+   copy contract address of the contract creation deployed (you can get it on https://sepolia.basescan.org/address/your-BASE-address) <br>
+   then go to https://docs.base.org/learn/token-development/erc-721-token/erc-721-exercise and submit. <br>
+
+   MinimalToken.sol <br>
+   copy the codes to remix and adjust it then deploy it <br>
+   copy contract address of the contract creation deployed (you can get it on https://sepolia.basescan.org/address/your-BASE-address) <br>
+   then go to https://docs.base.org/learn/token-development/minimal-tokens/minimal-tokens-exercise and submit. <br>
+
+   ERC20.sol <br>
+   copy the codes to remix and adjust it then deploy it <br>
+   copy contract address of the contract creation deployed (you can get it on https://sepolia.basescan.org/address/your-BASE-address) <br>
+   then go to https://docs.base.org/learn/token-development/erc-20-token/erc-20-exercise and submit. <br>
+   
+
+   
   
