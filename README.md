@@ -31,8 +31,8 @@ NOTE: Claim your badge on https://guild.xyz/base/base-learn, every time you comp
                                    _managerId: 55555 <br>
                                    _annualSalary: 20 <br>
    then deploy it <br>
-   -select InheritanceSubmission then fill : _salesPerson : ca of salesperson (you can get it on https://sepolia.basescan.org/address/your-BASE-address) <br
-                                             _engineeringManager : ca of engineeringManager (you can get it on https://sepolia.basescan.org/address/your-BASE-address) <br
+   -select InheritanceSubmission then fill : _salesPerson : ca of salesperson (you can get it on https://sepolia.basescan.org/address/your-BASE-address) <br>
+                                             _engineeringManager : ca of engineeringManager (you can get it on https://sepolia.basescan.org/address/your-BASE-address) <br>
    then go to https://docs.base.org/learn/inheritance/inheritance-exercise and submit. <br>
    
   Structs.sol <br>   
