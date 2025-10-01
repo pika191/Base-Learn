@@ -81,7 +81,8 @@ Complete the task complete tasks in sequence<br>
    copy the codes to remix and adjust it then deploy it <br>
    copy contract address of the contract creation deployed (you can get it on https://sepolia.basescan.org/address/your-BASE-address) <br>
    then go to https://docs.base.org/learn/token-development/erc-20-token/erc-20-exercise and submit. <br>
-   
 
+   It's for Educational purpose only<br>
+   #DYOR<br>
    
   
