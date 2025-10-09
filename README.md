@@ -55,8 +55,8 @@ Complete the tasks in sequence<br>
    then go to https://docs.base.org/learn/error-triage/error-triage-exercise and submit. <br>
    
    HaikuNFT.sol <br>
-   copy the codes to remix and adjust it then deploy it <br>
-   choose HaikuNFT-submission.sol then deploy it <br>
+   copy the codes to remix and adjust it <br>
+   select HaikuNFT-submission.sol then deploy it <br>
    copy contract address of the contract creation deployed (you can get it on https://sepolia.basescan.org/address/your-BASE-address) <br>
    then go to https://docs.base.org/learn/new-keyword/new-keyword-exercise and submit. <br>
 
