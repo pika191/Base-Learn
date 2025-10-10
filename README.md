@@ -1,7 +1,7 @@
-Instruction Guide for Base Learn Tasks <br>
-NOTE: Claim your badge on https://guild.xyz/base/base-learn, every time you complete a task <br>
+# Instruction Guide for Base Learn Tasks <br>
+# NOTE: Claim your badge on https://guild.xyz/base/base-learn, every time you complete a task <br>
 
-Complete the tasks in sequence<br>
+# Complete the tasks in sequence<br>
 
 1> BasicMath.sol <br>
    copy the codes to remix and adjust it then deploy it <br>
